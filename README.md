@@ -6,9 +6,9 @@ grit9.com
 
 #### Scene Needs:
 
-– [] Factory scene, optimized for VR
-– [] In-scene Debug Log Canvas
-– [] Debug Log Canvas needs frames per second (fps) added
+– [ ] Factory scene, optimized for VR
+– [ ] In-scene Debug Log Canvas
+– [ ] Debug Log Canvas needs frames per second (fps) added
 – [] Assembly line machinery
 – [] Prefab of part to inspect (3 versions: Good, Bad (needs rubber hole opened with tool), and Bad (Non salvagable, toss in red garbage bin)
 – [] Red garbage bin
