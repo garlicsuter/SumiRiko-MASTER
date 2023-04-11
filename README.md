@@ -16,4 +16,5 @@ grit9.com
 
 Script needs:
 - [ ] Part can only be oriented the correct way when placing on the assembly line. Script detects this and makes the socket mesh (translucent) red or green accordingly
+.
 
