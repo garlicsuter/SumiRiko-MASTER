@@ -1,14 +1,13 @@
-###Dev Notes
+### Dev Notes
 (by Mr. Suter and his students at Elida High School, Ohio)
 grit9.com
 
 ### 0.1
 
+#### Scene Needs:
 
-
-Scene Needs:
-– [x] Factory scene, optimized for VR
-– [x] In-scene Debug Log Canvas
+– [] Factory scene, optimized for VR
+– [] In-scene Debug Log Canvas
 – [] Debug Log Canvas needs frames per second (fps) added
 – [] Assembly line machinery
 – [] Prefab of part to inspect (3 versions: Good, Bad (needs rubber hole opened with tool), and Bad (Non salvagable, toss in red garbage bin)
